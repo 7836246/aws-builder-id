@@ -37,6 +37,4 @@ Thumbs.db
 
 # 截图
 *.png
-!assets/swiftproxy-github-cn.png
-!assets/thordata-proxy.png
 !assets/ipipgo-github-cn.png
